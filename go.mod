@@ -1,3 +1,3 @@
-module github.com/nicklaw5/helix
+module github.com/bashtech/helix
 
 go 1.15
